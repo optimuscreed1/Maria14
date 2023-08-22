@@ -1,7 +1,7 @@
-# this is my first file for git 
+# this is my first file for git. 
 
 i am loving this work.
 
-i am a great man 
+i am a great man. 
 
-i just have to believe it
+i just have to believe it.
